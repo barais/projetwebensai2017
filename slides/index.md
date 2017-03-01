@@ -28,6 +28,12 @@
 
 
 ---
+## Définition d'API standardisé
+- [swagger](http://swagger.io/)
+- [openAPI](https://www.openapis.org/)
+
+
+---
 
 ## Brique de base sur lesquels s'appuyer
 - [Xtext](http://www.eclipse.org/Xtext/)
@@ -57,7 +63,8 @@
 ---
 
 # Gestion de projet
-- github
-- slack
-- trello
-- travis ?
+
+- [github](https://github.com/)
+- [slack](https://slack.com/)
+- [trello](https://trello.com/)
+- [travis](https://travis-ci.org/) ?
