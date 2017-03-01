@@ -32,16 +32,19 @@
 ## Brique de base sur lesquels s'appuyer
 - [Xtext](http://www.eclipse.org/Xtext/)
 - [RXJava](https://github.com/ReactiveX/RxJava)
-- [unrirest](http://unirest.io/java.html)
+- [unirest](http://unirest.io/java.html)
 - [esper](http://www.espertech.com/esper/)
+- [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
 - ....
 
 ---
 
 ## Résulat possible du projet
-- Un DSL permettant de manipuler des abstractions statiqstique pour le requétage d'API WEB. 
+- Un DSL permettant de manipuler des abstractions statistiques pour le requétage d'API WEB. 
+- Ensemble d'examples permettant d'exprimer des requêtes sur des données issues du WEB
+- Implémentation de certains de ces exemples en Java pour montrer pourquoi on ne veut pas exprimer ces requêtes avec un GPL
 - Spécification du DSL  (Comment poser la question du type : est que le temps a un impact sur le sentiment d'une communauté twitter)
-
+- Première Implémentation de ce DSL en Java
 ---
 
 ## Documents à rendre
