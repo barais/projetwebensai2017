@@ -51,6 +51,7 @@
 - Implémentation de certains de ces exemples en Java pour montrer pourquoi on ne veut pas exprimer ces requêtes avec un GPL
 - Spécification du DSL  (Comment poser la question du type : est que le temps a un impact sur le sentiment d'une communauté twitter)
 - Première Implémentation de ce DSL en Java
+
 ---
 
 ## Documents à rendre
