@@ -41,6 +41,7 @@
 - [unirest](http://unirest.io/java.html)
 - [esper](http://www.espertech.com/esper/)
 - [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
+- [JSAT: Java Statistical Analysis Tool](https://github.com/EdwardRaff/JSAT)
 - ....
 
 ---
